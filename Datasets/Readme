@@ -1,0 +1,9 @@
+AR: 100 persons 8 images each
+YaleB: 38 persons 20 images each
+
+
+CSCN15x20 means 15x20 LR image is super resolved to 120x164
+
+CSCN30x41 means 30x41 LR image is super resolved to 120x164
+
+CSCN60x82 means 60x82 LR image is super resolved to 120x164
